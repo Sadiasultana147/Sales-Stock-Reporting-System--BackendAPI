@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "E9KO4HIWhz3lCNLwuhTd6pu/Fr3PM50Elb+Os2ODdlQ=",
+  "Source": "SSRS",
+  "BasePath": "_content/SSRS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

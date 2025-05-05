@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xqtM1w6/0dc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Music\\SalesStockReportingSystem\\BackendAPI\\Sales and Stock Reporting System\\SSRS.Application\\SSRS.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
